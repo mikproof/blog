@@ -5,3 +5,5 @@ class CreateArticles < ActiveRecord::Migration
     end
   end
 end
+#rake db:migrate, rake generate migration migrate_name,
+#rake d migration migration_name
